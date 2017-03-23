@@ -7,9 +7,17 @@ Opensource Low cost hand|finger tracking device for HCIs and Physiotherapy appli
 
 [2] 
 
-## References Readings
+## References Readings 
+### Books
+
 [1] http://www.capsense.com/capsense-wp.pdf
 
 [2] Larry K. Baxter Capacitive Sensors Book http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=5264832
 
 [3] Prof. Joseph Paradiso Class 2016 - https://dspace.mit.edu/handle/1721.1/69824
+
+### Papers/Projects
+
+[1] https://dam-prod.media.mit.edu/x/files/thesis/2013/nanwei-phd.pdf
+
+[2] Mathews Radio-Baton (https://www.engadget.com/2014/02/02/max-mathews-one-man-electronic-orchestra/)
