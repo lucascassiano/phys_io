@@ -26,13 +26,13 @@ Opensource Low cost hand|finger tracking device for HCIs and Physiotherapy appli
 ## Components to buy - April 2017
 | Component     | Price (US$) |Quantity| link
 | ------------- |:------:|:-----:| --------- |
-| TP4056 Battery Charge |  1.65  | 10 | ![dx](http://www.dx.com/p/tp4056-4-2w-1-2a-5v-lithium-battery-charging-discharging-protection-module-w-micro-usb-blue-397213#.WOpxGlLlQU4)|
-| MPR121 Breakout I2C   |  4.99  | 10 | ![dx](http://www.dx.com/p/mpr121-breakout-i2c-capacitive-touch-sensor-controller-module-for-arduino-raspberry-pi-382663#.WOpyglLlSAw)|
-| Arduino Micro Pro     |  5.99  | 10 | ![dx](http://www.dx.com/p/open-smart-atmega32u4-development-board-pro-micro-for-arduino-452853#.WOpy3lLlSAw)|
-| HC-06 Bluetooth Module|  5.99  | 10 | ![dx](http://www.dx.com/p/hc-06-serial-port-passthrough-wireless-slave-transceiver-bluetooth-module-for-arduino-382686#.WOpzOFLlSAw)|
-| 5x lipo Battery 800mah|  13.65 | 2  | ![dx](http://www.dx.com/p/hj-5pcs-3-7v-800mah-batteries-for-dfd-f163-rc-quadcopter-spare-parts-458005#.WOpzklLlSAw)|
-| 10x switch            |  1.92  | 2  | ![dx](http://www.dx.com/p/jtron-6-pin-toggle-switch-battery-box-dedicated-switch-black-10-pcs-392709#.WOpz1VLlQU4)|
-| 10x Vibration Motor   |  5.89  | 3  | ![dx](http://www.dx.com/p/1027-vibration-motor-10x2-7mm-button-type-vibrating-motors-10-pcs-460845#.WOpz-1LlQU4)|
+| TP4056 Battery Charge |  1.65  | 10 | [dx](http://www.dx.com/p/tp4056-4-2w-1-2a-5v-lithium-battery-charging-discharging-protection-module-w-micro-usb-blue-397213#.WOpxGlLlQU4)|
+| MPR121 Breakout I2C   |  4.99  | 10 | [dx](http://www.dx.com/p/mpr121-breakout-i2c-capacitive-touch-sensor-controller-module-for-arduino-raspberry-pi-382663#.WOpyglLlSAw)|
+| Arduino Micro Pro     |  5.99  | 10 | [dx](http://www.dx.com/p/open-smart-atmega32u4-development-board-pro-micro-for-arduino-452853#.WOpy3lLlSAw)|
+| HC-06 Bluetooth Module|  5.99  | 10 | [dx](http://www.dx.com/p/hc-06-serial-port-passthrough-wireless-slave-transceiver-bluetooth-module-for-arduino-382686#.WOpzOFLlSAw)|
+| 5x lipo Battery 800mah|  13.65 | 2  | [dx](http://www.dx.com/p/hj-5pcs-3-7v-800mah-batteries-for-dfd-f163-rc-quadcopter-spare-parts-458005#.WOpzklLlSAw)|
+| 10x switch            |  1.92  | 2  | [dx](http://www.dx.com/p/jtron-6-pin-toggle-switch-battery-box-dedicated-switch-black-10-pcs-392709#.WOpz1VLlQU4)|
+| 10x Vibration Motor   |  5.89  | 3  | [dx](http://www.dx.com/p/1027-vibration-motor-10x2-7mm-button-type-vibrating-motors-10-pcs-460845#.WOpz-1LlQU4)|
 
 ## References Readings 
 ### Books
