@@ -1,11 +1,27 @@
 # phys_io
 Opensource Low cost hand|finger tracking device for HCIs and Physiotherapy applications
 
-## Possible future ICs
+## Possible ICs
 ### Capacitive Touch/Proximity ICs
-[1] PCF8885 - 8channel low power Cap Sensor - http://www.nxp.com/documents/data_sheet/PCF8885.pdf
+- MPR121 - 12Channel w/ I2C interf - https://www.adafruit.com/product/1982
 
-[2] 
+### Power Supply
+
+- TP4056 - LiPo Charger - https://www.sparkfun.com/products/10217
+
+- UA78M33 - 3.3v Regulator
+
+### Micro Controller
+
+- ATMega32u4 - (maybe it's too much for a simple application)
+
+- Attiny44 
+
+## Software - API / Viz tool
+
+- Node.js 
+- Babylon.js
+- Unity (?)
 
 ## References Readings 
 ### Books
