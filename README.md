@@ -23,6 +23,13 @@ Opensource Low cost hand|finger tracking device for HCIs and Physiotherapy appli
 - Babylon.js
 - Unity (?)
 
+## Components to buy - April 2017
+| Component     | Price (US$) |Quantity| link
+| ------------- |:------:|:-----:| --------- |
+| col 3 is      |  1.65  | 10     |http://www.dx.com/p/tp4056-4-2w-1-2a-5v-lithium-battery-charging-discharging-protection-module-w-micro-usb-blue-397213#.WOpxGlLlQU4|
+| col 2 is      |        |   $12     |       |
+| zebra stripes |        |    $1     |       |
+
 ## References Readings 
 ### Books
 
