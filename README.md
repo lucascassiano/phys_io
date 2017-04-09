@@ -24,3 +24,6 @@ Opensource Low cost hand|finger tracking device for HCIs and Physiotherapy appli
 
 [3] Resistive/Capacitive Charge Division circuit http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1134315
 
+### Other Repositories
+
+[1] DIY SmartWatch https://github.com/laubed/diy-smartwatch
