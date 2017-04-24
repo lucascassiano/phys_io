@@ -51,6 +51,10 @@ Opensource Low cost hand|finger tracking device for HCIs and Physiotherapy appli
 
 [3] Resistive/Capacitive Charge Division circuit http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1134315
 
+[4] http://resenv.media.mit.edu/#Projects#emgrie:-ergonomic-microgesture-recognition-and-interaction-evaluation
+
+[5] http://nailo.media.mit.edu
+
 ### Other Repositories
 
 [1] DIY SmartWatch https://github.com/laubed/diy-smartwatch
